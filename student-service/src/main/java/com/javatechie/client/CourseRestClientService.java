@@ -36,5 +36,4 @@
 //        String url = COURSE_BASE_URL + "/" + courseId + "/ratings";
 //        return restTemplate.postForObject(url, rating, String.class);
 //    }
-//
 //}
