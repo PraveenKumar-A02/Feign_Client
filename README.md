@@ -128,7 +128,7 @@ GET http://localhost:8082/students/courses
 
 ## 📖 Tech Stack
 
-* Java 11+
+* Java 21+
 * Spring Boot
 * Spring Cloud OpenFeign
 * Maven
